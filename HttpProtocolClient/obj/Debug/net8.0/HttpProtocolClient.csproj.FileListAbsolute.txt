@@ -1,0 +1,14 @@
+C:\Users\mahmudov_m\source\repos\HttpProtocolClient\HttpProtocolClient\bin\Debug\net8.0\HttpProtocolClient.exe
+C:\Users\mahmudov_m\source\repos\HttpProtocolClient\HttpProtocolClient\bin\Debug\net8.0\HttpProtocolClient.deps.json
+C:\Users\mahmudov_m\source\repos\HttpProtocolClient\HttpProtocolClient\bin\Debug\net8.0\HttpProtocolClient.runtimeconfig.json
+C:\Users\mahmudov_m\source\repos\HttpProtocolClient\HttpProtocolClient\bin\Debug\net8.0\HttpProtocolClient.dll
+C:\Users\mahmudov_m\source\repos\HttpProtocolClient\HttpProtocolClient\bin\Debug\net8.0\HttpProtocolClient.pdb
+C:\Users\mahmudov_m\source\repos\HttpProtocolClient\HttpProtocolClient\obj\Debug\net8.0\HttpProtocolClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahmudov_m\source\repos\HttpProtocolClient\HttpProtocolClient\obj\Debug\net8.0\HttpProtocolClient.AssemblyInfoInputs.cache
+C:\Users\mahmudov_m\source\repos\HttpProtocolClient\HttpProtocolClient\obj\Debug\net8.0\HttpProtocolClient.AssemblyInfo.cs
+C:\Users\mahmudov_m\source\repos\HttpProtocolClient\HttpProtocolClient\obj\Debug\net8.0\HttpProtocolClient.csproj.CoreCompileInputs.cache
+C:\Users\mahmudov_m\source\repos\HttpProtocolClient\HttpProtocolClient\obj\Debug\net8.0\HttpProtocolClient.dll
+C:\Users\mahmudov_m\source\repos\HttpProtocolClient\HttpProtocolClient\obj\Debug\net8.0\refint\HttpProtocolClient.dll
+C:\Users\mahmudov_m\source\repos\HttpProtocolClient\HttpProtocolClient\obj\Debug\net8.0\HttpProtocolClient.pdb
+C:\Users\mahmudov_m\source\repos\HttpProtocolClient\HttpProtocolClient\obj\Debug\net8.0\HttpProtocolClient.genruntimeconfig.cache
+C:\Users\mahmudov_m\source\repos\HttpProtocolClient\HttpProtocolClient\obj\Debug\net8.0\ref\HttpProtocolClient.dll
